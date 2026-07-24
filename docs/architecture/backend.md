@@ -1,5 +1,5 @@
 ---
-Status: Proposed
+Status: Draft
 Owner: Human decision required
 Version: 0.1.0
 Last Updated: 2026-07-24
