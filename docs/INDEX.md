@@ -15,7 +15,7 @@ Ascend needs one trustworthy homepage where every document is easy to discover.
 Every document is reachable below in one click.
 
 ### Vision
-[Vision index](vision/INDEX.md) · [Vision](vision/vision.md) · [Mission](vision/mission.md) · [Constitution](vision/constitution.md) · [Principles](vision/principles.md) · [Glossary](vision/glossary.md)
+[Vision index](vision/INDEX.md) · [Vision](vision/vision.md) · [Manifesto](vision/manifesto.md) · [Mission](vision/mission.md) · [Constitution](vision/constitution.md) · [Principles](vision/principles.md) · [Glossary](vision/glossary.md)
 
 ### Product
 [Product index](product/README.md) · [Philosophy](product/philosophy.md) · [PRD](product/prd.md) · [Experience blueprint](product/experience-blueprint.md) · [Feature catalog](product/feature-catalog.md) · [Personas](product/personas.md) · [User journeys](product/user-journeys.md) · [Roadmap](product/roadmap.md) · [Release plan](product/release-plan.md) · [Success metrics](product/success-metrics.md)

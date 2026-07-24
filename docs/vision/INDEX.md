@@ -6,6 +6,7 @@ Last Updated: 2026-07-24
 Related Documents:
   - [Documentation index](../INDEX.md)
   - [Vision](vision.md)
+  - [Manifesto](manifesto.md)
   - [Mission](mission.md)
   - [Constitution](constitution.md)
   - [Principles](principles.md)
@@ -21,6 +22,7 @@ Vision documents keep long-term purpose distinct from short-term delivery choice
 ## What
 
 - [Vision](vision.md)
+- [Manifesto](manifesto.md)
 - [Mission](mission.md)
 - [Constitution](constitution.md)
 - [Principles](principles.md)
